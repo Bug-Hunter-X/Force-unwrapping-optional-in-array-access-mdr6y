@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift: force unwrapping an optional without checking for nil. The `bug.swift` file shows the error, while `bugSolution.swift` provides a safer alternative.
